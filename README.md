@@ -1,78 +1,37 @@
-# Frontend Mentor - QR code component
+# QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Table of Contents
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [Useful Resources](#useful-resources)
 
 ## Overview
 
 ### Screenshot
 
-[YOUR INPUT NEEDED] Add a screenshot of your solution here. You can take a screenshot and add it to your project, then update the path below.
-
-![](./screenshot.jpg)
+![QR Code Component Screenshot](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [YOUR INPUT NEEDED] Add your solution URL here
-- Live Site URL: [YOUR INPUT NEEDED] Add your live site URL here
+- Live Site URL: [QR Code Component on Netlify](https://dulcet-pony-f01b5d.netlify.app/)
 
-## My process
+## My Process
 
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- [Codeium Cascade](https://codeium.com/cascade) via Windsurf - AI pair programming assistant
+- Deployed with [Netlify](https://www.netlify.com/)
 
-### What I learned
+### Useful Resources
 
-[YOUR INPUT NEEDED] Write about what you learned through this project. Here you can showcase code snippets you're proud of:
-
-```html
-<div class="card">
-  <img src="images/image-qr-code.png"/>
-  <div class="card-content">
-    <h1>Improve your frontend skills by building projects</h1>
-    <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
-  </div>
-</div>
-```
-```css
-body {
-    background-color: hsl(212, 45%, 89%);
-    display: flex;
-    justify-content: center;
-    font-family: 'Outfit', sans-serif;
-    align-items: center;
-}
-```
-
-### Continued development
-
-[YOUR INPUT NEEDED] Write about areas you want to continue focusing on in future projects.
-
-### Useful resources
-
-[YOUR INPUT NEEDED] Add any resources that helped you during this project.
-
-## Author
-
-- Website - [YOUR INPUT NEEDED] Add your name or website
-- Frontend Mentor - [YOUR INPUT NEEDED] Add your Frontend Mentor profile link
-
-## Acknowledgments
-
-[YOUR INPUT NEEDED] If you received any help or inspiration, acknowledge them here.
+- [Codeium Cascade](https://codeium.com/cascade) (accessed through Windsurf) was invaluable for this project. I prompted it to be my HTML & CSS tutor since I hadn't practiced in a long time. It guided me through the steps without writing the code for me, acting like a senior developer providing guidance. The experience was enhanced by how easily I could deploy the GitHub repository to Netlify with Cascade's assistance.
